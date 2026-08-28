@@ -1,11 +1,10 @@
-# xen
-I'm James Julian, also known as xen — a first-year BS Information Systems student with around four years of experience in video and graphic editing, including commission work. I'm into cats and UI/UX design, and I've been building web projects like Paws in Memory, the Purr Site, and a terminal-themed landing page.
+# James
+I'm James Julian, a first-year BS Information Systems student with around four years of experience in video and graphic editing, including commission work. I'm into cats and UI/UX design, and I've been building web projects like Paws in Memory, the Purr Site, and a terminal-themed landing page.
 
 BS Information Student<br/>
 Designer Student<br/>
 Editor Person<br/>
 Interested in Ui/UX<br/>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xennv.1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamesjulian050@gmail.com) 
